@@ -2,7 +2,7 @@
 The latte.to website.
 ___
 This file is part of the latte.to website by Latte Softworks, and is protected by the Apache Licence 2.0.
-Copyright (C) 2022, Latte Softworks
+Copyright © 2022, Latte Softworks
 ___
 ## Additional Info
 - The **source directory** is located in the /Source directory, this is where the site hosts everything.
